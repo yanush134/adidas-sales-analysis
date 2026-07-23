@@ -1,7 +1,6 @@
 # 👟 Adidas Sales Analysis | 2022
 
-![Adidas Sales Dashboard](
-)
+![Adidas Sales Dashboard](adidas_sales_dashboard.png)
 
 
 ## 📊 Project Overview
