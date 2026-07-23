@@ -2,7 +2,6 @@
 
 ![Adidas Sales Dashboard](adidas_sales_dashboard.png)
 
-
 ## 📊 Project Overview
 
 This project analyzes Adidas sales performance in 2022, focusing on revenue, profit, product performance, retailer performance, and sales methods.
@@ -61,7 +60,7 @@ The main objectives of this analysis were to:
 
 ### 🛒 Sales Methods
 
-The dashboard also compares the distribution of sales methods across six major retailers:
+The dashboard compares sales methods across six major retailers:
 
 - Amazon
 - Foot Locker
@@ -70,7 +69,7 @@ The dashboard also compares the distribution of sales methods across six major r
 - Walmart
 - West Gear
 
-This analysis helps evaluate how different retailers distribute their sales across **Outlet, Online, and In-Store** channels.
+The analysis helps evaluate how different retailers distribute their sales across **Outlet, Online, and In-Store** channels.
 
 ---
 
@@ -92,8 +91,6 @@ The data preparation process included:
 ---
 
 ## 📊 Dashboard Features
-
-The interactive Tableau dashboard includes:
 
 ### KPI Overview
 - Total Sales
@@ -121,18 +118,6 @@ The interactive Tableau dashboard includes:
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- Tableau Public
-- Data Cleaning
-- Data Transformation
-- Data Analysis
-- Data Visualization
-- KPI Analysis
-- Dashboard Design
-
----
-
 ## 💡 Business Value
 
 The analysis provides a high-level overview of Adidas sales performance and highlights the key areas contributing to revenue and profitability.
@@ -148,21 +133,34 @@ The dashboard can help stakeholders:
 
 ---
 
-## 📸 Dashboard Preview
+## 🛠️ Tools & Technologies
 
-![Adidas Sales Dashboard](<img width="1470" height="956" alt="Знімок екрана 2026-07-08 о 13 12 18" src="https://github.com/user-attachments/assets/b8867203-7046-4e5e-b9da-418443328bcd" />)
+- Tableau Public
+- Data Cleaning
+- Data Transformation
+- Data Analysis
+- Data Visualization
+- KPI Analysis
+- Dashboard Design
 
 ---
 
-## 📂 Project Structure
+## 📸 Dashboard Preview
 
-```text
-adidas-sales-analysis
-│
-├── dashboard
-│   └── adidas_sales_dashboard.png
-│
-├── data
-│   └── adidas_sales.csv
-│
-└── README.md
+![Adidas Sales Dashboard](adidas_sales_dashboard.png)
+
+---
+
+## 👤 Author
+
+### Danilo Yanushevskyi
+
+Junior Data Analyst
+
+🔗 [GitHub](https://github.com/yanush134)
+
+🔗 [LinkedIn](YOUR_LINKEDIN_URL)
+
+---
+
+⭐ Thanks for visiting this project!
