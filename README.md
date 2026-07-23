@@ -151,7 +151,7 @@ The dashboard can help stakeholders:
 
 ## 📸 Dashboard Preview
 
-![Adidas Sales Dashboard](dashboard/adidas_sales_dashboard.png)
+![Adidas Sales Dashboard](<img width="1470" height="956" alt="Знімок екрана 2026-07-08 о 13 12 18" src="https://github.com/user-attachments/assets/b8867203-7046-4e5e-b9da-418443328bcd" />)
 
 ---
 
